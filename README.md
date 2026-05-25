@@ -4,9 +4,6 @@
 
 I am a passionate Java Full Stack Developer with a strong foundation in Java, Spring Boot, Microservices, and Database Technologies. I enjoy building scalable, maintainable, and real-world applications while continuously learning modern backend technologies and software development best practices.
 
-🚀 Currently exploring advanced Microservices, Redis Caching, Apache Kafka, and Cloud-Native Application Development.
-
----
 
 ## 👨‍💻 About Me
 
@@ -77,6 +74,7 @@ I am a passionate Java Full Stack Developer with a strong foundation in Java, Sp
 A web-based application for managing books, customers, inventory, and orders efficiently.
 
 **Key Features**
+- Admin Registration & Authentication
 - User Registration & Authentication
 - Book Search & Catalog Management
 - Shopping Cart Functionality
@@ -121,7 +119,8 @@ A CRUD-based application for managing employee records efficiently.
 
 **Technologies**
 - Spring Boot
-- Spring Data JPA
+- Spring Boot Data JPA
+- Spring Boot MVC
 - Java(Core & Advance)
 - Oracle(SQL & PL/SQL)
 - REST APIs
