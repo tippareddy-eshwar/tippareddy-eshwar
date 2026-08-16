@@ -118,7 +118,69 @@ A distributed e-commerce application built using Spring Boot and Microservices.
    - GitHub
 
   Repository: http://github.com/tippareddy-eshwar/springboot-ecommerce-microservices-project
-  
+
+
+### Employee Management System Using Spring MVC and Spring Data JPA
+
+The Employee Management System is a web-based application developed using Spring MVC . The application allows users to add, update, view, and delete employee records. The project also implements pagination and sorting to efficiently manage employee records stored in the database. The application follows the MVC architecture and uses Thymeleaf to render dynamic web pages.
+
+## Key Features
+
+- Employee Registration
+
+- View Employee Details
+
+- Update Employee Information
+
+- Delete Employee Records
+
+- CRUD Operations
+
+- Pagination
+
+- Sorting
+
+- Server-Side Validation
+
+- Exception Handling using a custom errors page
+
+- MVC Architecture
+
+- Dynamic UI using Thymeleaf
+
+- Database Integration using Spring Data JPA
+
+- REST API Implementation
+
+
+ ## Technologies
+
+  - Java
+
+  - Spring Framework
+
+  - Spring MVC
+
+  - Spring Data JPA
+
+  - Hibernate
+
+  - Thymeleaf
+
+  - HTML
+
+  - CSS
+
+  - JavaScript
+
+  - Oracle Database
+
+  - Eclipse IDE
+
+  - Git
+
+  - GitHub
+
 
 ### 📚 Online Bookstore Management System
 A web-based application for managing books, customers, inventory, and orders efficiently.
