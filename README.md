@@ -38,6 +38,12 @@ I am a passionate Java Full Stack Developer with a strong foundation in Java, Sp
 - Apache Kafka
 - JMS (Java Message Service)
 
+### Security
+- Spring Security
+- Session-Based Authentication
+- JWT
+- OAuth2
+
 ### Databases
 - Oracle Database
 - MySQL
