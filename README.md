@@ -68,7 +68,48 @@ I am a passionate Java Full Stack Developer with a strong foundation in Java, Sp
 
 ---
 
-## 🚀 Featured Projects
+## 🚀  Projects
+
+### Distributed E-Commerce Platform Using Spring Boot And Microservices
+
+A distributed e-commerce application built using Spring Boot and Microservices.
+
+## Key Features
+
+- Microservices architecture
+- Service discovery using Eureka
+- Centralized configuration using Config Server
+- API Gateway
+- Synchronous communication using OpenFeign
+- Asynchronous communication using Kafka
+- Circuit Breaker implementation
+- Global exception handling
+- DTO pattern
+- Validation using Jakarta Validation
+- Centralized logging using ELK Stack
+- API documentation using Swagger
+- Application monitoring using Spring Boot Actuator
+
+ ## Technologies
+
+   - Java
+   - Spring Boot
+   - Spring Cloud
+   - Spring Data JPA
+   - Hibernate
+   - MySQL
+   - Eureka Server
+   - Spring Cloud Config
+   - Spring Cloud Gateway
+   - OpenFeign
+   - Apache Kafka
+   - Circuit Breaker (Resilience4j)
+   - ELK Stack
+   - Swagger (OpenAPI)
+   - Spring Boot Actuator
+   - Maven
+   - Git
+   - GitHub
 
 ### 📚 Online Bookstore Management System
 A web-based application for managing books, customers, inventory, and orders efficiently.
