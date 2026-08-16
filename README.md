@@ -111,6 +111,9 @@ A distributed e-commerce application built using Spring Boot and Microservices.
    - Git
    - GitHub
 
+  Repository: http://github.com/tippareddy-eshwar/springboot-ecommerce-microservices-project
+  
+
 ### 📚 Online Bookstore Management System
 A web-based application for managing books, customers, inventory, and orders efficiently.
 
