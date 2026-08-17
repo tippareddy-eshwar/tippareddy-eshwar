@@ -218,35 +218,10 @@ A comprehensive hotel management application designed to streamline food orderin
 - HTML
 - CSS
 - Java Script
-
-
-### 👨‍💼 Employee Management System
-A CRUD-based application for managing employee records efficiently.
-
-**Key Features**
-- Add Employee
-- Update Employee Details
-- Delete Employee Records
-- Search Employee Information
-- Database Operations
-
-**Technologies**
-- Spring Boot
-- Spring Boot Data JPA
-- Spring Boot MVC
-- Java(Core & Advance)
-- Oracle(SQL & PL/SQL)
-- REST APIs
-- HTML
-- CSS
-- Java Script
-
----
+- 
 
 ## 📖 Currently Learning
 
-- Spring Security
-- Redis Cache Optimization
 - Advanced Microservices Patterns
 - Docker
 - Kubernetes
