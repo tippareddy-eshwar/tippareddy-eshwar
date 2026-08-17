@@ -117,7 +117,7 @@ A distributed e-commerce application built using Spring Boot and Microservices.
    - Git
    - GitHub
 
-  Repository: http://github.com/tippareddy-eshwar/springboot-ecommerce-microservices-project
+  Repository Link : http://github.com/tippareddy-eshwar/springboot-ecommerce-microservices-project
 
 
 ### Employee Management System Using Spring MVC and Spring Data JPA
@@ -181,6 +181,7 @@ The Employee Management System is a web-based application developed using Spring
 
   - GitHub
 
+  Repository Link :  http://github.com/tippareddy-eshwar/Employee-Management-System-Using-Spring-MVC-and-Thymeleaf-Project
 
 ### 📚 Online Bookstore Management System
 A web-based application for managing books, customers, inventory, and orders efficiently.
