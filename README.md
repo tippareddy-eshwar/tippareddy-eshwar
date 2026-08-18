@@ -76,7 +76,7 @@ I am a passionate Java Full Stack Developer with a strong foundation in Java, Sp
 
 ## 🚀  Projects
 
-### Distributed E-Commerce Platform Using Spring Boot And Microservices
+### Microservices-Based E-Commerce Order Management System
 
 A distributed e-commerce application built using Spring Boot and Microservices.
 
