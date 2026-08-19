@@ -183,51 +183,6 @@ The Employee Management System is a web-based application developed using Spring
 
   Repository Link :  http://github.com/tippareddy-eshwar/Employee-Management-System-Using-Spring-MVC-and-Thymeleaf-Project
 
-### 📚 Online Bookstore Management System
-A web-based application for managing books, customers, inventory, and orders efficiently.
-
-**Key Features**
-- Admin Registration & Authentication
-- User Registration & Authentication
-- Book Search & Catalog Management
-- Shopping Cart Functionality
-- Order Processing
-- Database Integration
-
-**Technologies**
-- Java(Core & Advance)
-- Oracle(SQL &PL/SQL)
-- HTML
-- CSS
-- Java Script
-
-
-### 🍽️ Smart Hotel and Food Billing System
-A comprehensive hotel management application designed to streamline food ordering and billing operations.
-
-**Key Features**
-- Customer Order Management
-- Food Billing Automation
-- Menu Management
-- Bill Generation
-- Database Connectivity
-
-**Technologies**
-- Java(Core & Advance)
-- Oracle(SQL &PL/SQL)
-- HTML
-- CSS
-- Java Script
-- 
-
-## 📖 Currently Learning
-
-- Advanced Microservices Patterns
-- Docker
-- Kubernetes
-- Cloud Technologies
-
----
 
 ## 🎯 Career Objective
 
